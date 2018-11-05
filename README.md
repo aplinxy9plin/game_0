@@ -6,6 +6,4 @@
 </p>
 <hr>
 <h4>Вам очень поможет эта запись</h4>
-```javascript
 document.getElementById('kartinka').src = "paper.jpg"
-```
